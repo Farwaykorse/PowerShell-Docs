@@ -174,10 +174,7 @@ You cannot pipe input to this cmdlet.
 This cmdlet does not return any output.
 
 ## NOTES
-* **Set-StrictMode** is like the *Strict* parameter of **Set-PSDebug**. `Set-StrictMode -Version 1` is equivalent to `Set-PSDebug -Strict`, except that **Set-PSDebug** is effective in all scopes. **Set-StrictMode** is effective only in the scope in which it is set and in its child scopes. For more information about scopes in PowerShell, see about_Scopes.
-
-*
+* **Set-StrictMode** is like the *Strict* parameter of **Set-PSDebug**. `Set-StrictMode -Version 1` is equivalent to `Set-PSDebug -Strict`, except that **Set-PSDebug** is effective in all scopes. **Set-StrictMode** is effective only in the scope in which it is set and in its child scopes. For more information about scopes in PowerShell, see [about_Scopes](About/about_Scopes.md).
 
 ## RELATED LINKS
-
 [Set-PSDebug](Set-PSDebug.md)
